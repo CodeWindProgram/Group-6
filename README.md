@@ -5,7 +5,10 @@ khanuzma - ayeshasikanderkhan@gmail.com
 
 sanketk7 - sanketkumthekar1536@gmail.com   
 
-Sneha-Singh09 - sneharksingh@gmail.com
+Sneha-Singh09 - sneharksingh@gmail.com                          
+Selected a database for our test platform after discussing with other group members                             
+Installed PostgreSQL on my system                                 
+Finalized the Design of the database for the test platform with group members. 
 
 vj9206411- vj9206411@gmail.com
 
