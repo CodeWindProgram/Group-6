@@ -41,6 +41,9 @@ perform the testcase on database table
 
 
 ankitaanilbhosale - ankitaanilbhosale@gmail.com
+Discussed the database for our test platform with the group memebers and then selected.
+Installed PostgreSQL on my system.
+Did the final design of database along with group members.
 
 nimishapatil12 - nimishapatil26@gmail.com
 
