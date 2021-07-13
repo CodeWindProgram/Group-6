@@ -29,8 +29,17 @@ shruchavan - shruchavan2001@gmail.com
 
 01neerajgupta - guptaneeraj027@gmail.com
 Installed Postgresql on my system
+
 prepared the database design with our team for project
 updated database for our project
 finalized the database design for our project
+prepared a rough database for our project with the help of our group members
+updated the database for our project with the help of our group members
+Finalized the database for our project with the help of our group members
+perform the testcase on database table
+
+
 
 ankitaanilbhosale - ankitaanilbhosale@gmail.com
+
+nimishapatil12 - nimishapatil26@gmail.com
