@@ -43,3 +43,9 @@ perform the testcase on database table
 ankitaanilbhosale - ankitaanilbhosale@gmail.com
 
 nimishapatil12 - nimishapatil26@gmail.com
+
+shubhamchavan148 - shubhamchava148@gmail.com
+1.Selected and plan database design for our problem statement with team members.
+2.Installed PostgeSQL on my system.
+3.Finalized the database schema and structure with team members.
+4.Perform querries on our database with PostgreSQL platform.
