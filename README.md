@@ -10,11 +10,16 @@ Worked on designed and finalised it .
 Lead the documentation work and with the help of my other group member made a document which is upload up there .
 
 Sneha-Singh09 - sneharksingh@gmail.com                          
-Selected a database for our test platform after discussing with other group members                             
+Selected a database for our test platform after discussing with other group members 
 Installed PostgreSQL on my system                                 
 Finalized the Design of the database for the test platform with group members. 
 
-vj9206411- vj9206411@gmail.com
+vj9206411 - vj9206411@gmail.com
+Installed PostgreSQL on my system.
+Finalized the database design with the group members for further execution.
+Updating the created database like adding some tables and their attribute.
+Perform test cases on database tables using SQL query.
+
 
 meghnamalviya - megmalviya12@gmail.com
 
