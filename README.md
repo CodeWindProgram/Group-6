@@ -27,6 +27,10 @@ Devansh-Upadhyay : upadhyaydevansh5@gmail.com
 4. [ADDITIONAL]Created a login page for user login (frontend only)
 
 meghnamalviya - megmalviya12@gmail.com
+1. Selected a database after discussing with the group members.
+2. Installed postgreSQL on my system.
+3. Worked on design and finalised it with the group members.
+4. Helped in the documentation work and made a document with the group members which has been uploaded here.
 
 shruchavan - shruchavan2001@gmail.com
 
