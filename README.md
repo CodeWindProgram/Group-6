@@ -3,7 +3,7 @@
 
 khanuzma - ayeshasikanderkhan@gmail.com  
 1.Selected a suitable database for our test platform after discussing with other group members.
-2.Installed Postgressql on my system.
+2.Installed PostgreSql on my system.
 3.Worked on designing the database and finalized the design of the database for our test platform.
 
 sanketk7 - sanketkumthekar1536@gmail.com  
