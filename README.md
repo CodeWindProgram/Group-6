@@ -15,10 +15,10 @@ Sneha-Singh09 - sneharksingh@gmail.com
 3. Finalized the Design of the database for the test platform with group members. 
 
 vj9206411 - vj9206411@gmail.com
-1.Installed PostgreSQL on my system.
-2.Finalized the database design with the group members for further execution.
-3.Updating the created database like adding some tables and their attribute.
-4.Perform test cases on database tables using SQL query.
+ 1. Installed PostgreSQL on my system.
+ 2. Finalized the database design with the group members for further execution.
+ 3. Updating the created database like adding some tables and their attribute.
+ 4. Perform test cases on database tables using SQL query.
 
 Devansh-Upadhyay : upadhyaydevansh5@gmail.com 
 1. Selected the most suitable database and installed PostgreSQL on the system.
