@@ -22,6 +22,11 @@ vj9206411 - vj9206411@gmail.com
 3.Updating the created database like adding some tables and their attribute.
 4.Perform test cases on database tables using SQL query.
 
+Devansh-Upadhyay : upadhyaydevansh5@gmail.com 
+1. Selected the most suitable database and installed PostgreSQL on the system.
+2. Worked on designing the database schema and testing the same.
+3. Helped in the documentation process
+4. [ADDITIONAL]Created a login page for user login (frontend only)
 
 meghnamalviya - megmalviya12@gmail.com
 
