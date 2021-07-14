@@ -4,19 +4,17 @@
 khanuzma - ayeshasikanderkhan@gmail.com  
 
 sanketk7 - sanketkumthekar1536@gmail.com  
-Selected the database after having word with group members.
-Installed the ProgreSql on my system.
-Worked on designed and finalised it .
-Lead the documentation work and with the help of my other group member made a document which is upload up there .
+1. Selected the database after having word with group members.
+2. Installed the ProgreSql on my system.
+3. Worked on designed and finalised it .
+4. Lead the documentation work and with the help of my other group member made a document which is upload up there .
 
 Sneha-Singh09 - sneharksingh@gmail.com                          
-Selected a database for our test platform after discussing with other group members 
-
-Installed PostgreSQL on my system                                 
-Finalized the Design of the database for the test platform with group members. 
+1. Selected a database for our test platform after discussing with other group members 
+2. Installed PostgreSQL on my system                                 
+3. Finalized the Design of the database for the test platform with group members. 
 
 vj9206411 - vj9206411@gmail.com
-
 1.Installed PostgreSQL on my system.
 2.Finalized the database design with the group members for further execution.
 3.Updating the created database like adding some tables and their attribute.
@@ -33,11 +31,11 @@ meghnamalviya - megmalviya12@gmail.com
 shruchavan - shruchavan2001@gmail.com
 
 01neerajgupta - guptaneeraj027@gmail.com
-Installed Postgresql on my system
-prepared a rough database for our project with the help of our group members
-updated the database for our project with the help of our group members
-Finalized the database for our project with the help of our group members
-perform the testcase on database table
+1. Installed Postgresql on my system
+2. prepared a rough database for our project with the help of our group members
+3. updated the database for our project with the help of our group members
+4. Finalized the database for our project with the help of our group members
+5. perform the testcase on database table
 
 
 
