@@ -1,4 +1,4 @@
-#Problem statement :Select, Design and Plan installation of database for test platform.  
+# Problem statement : Select, Design and Plan installation of database for test platform.  
 
 
 khanuzma - ayeshasikanderkhan@gmail.com  
@@ -15,10 +15,10 @@ Sneha-Singh09 - sneharksingh@gmail.com
 3. Finalized the Design of the database for the test platform with group members. 
 
 vj9206411 - vj9206411@gmail.com
- 1. Installed PostgreSQL on my system.
- 2. Finalized the database design with the group members for further execution.
- 3. Updating the created database like adding some tables and their attribute.
- 4. Perform test cases on database tables using SQL query.
+1. Installed PostgreSQL on my system.
+2. Finalized the database design with the group members for further execution.
+3. Updating the created database like adding some tables and their attribute.
+4. Perform test cases on database tables using SQL query.
 
 Devansh-Upadhyay : upadhyaydevansh5@gmail.com 
 1. Selected the most suitable database and installed PostgreSQL on the system.
@@ -40,16 +40,14 @@ shruchavan - shruchavan2001@gmail.com
 
 
 ankitaanilbhosale - ankitaanilbhosale@gmail.com
-
-Discussed the database for our test platform with the group memebers and then selected.
-Installed PostgreSQL on my system.
-
-Did the final design diagram of database along with group members.
+1. Discussed the database for our test platform with the group memebers and then selected.
+2. Installed PostgreSQL on my system.
+3. Did the final design diagram of database along with group members.
 
 nimishapatil12 - nimishapatil26@gmail.com
 
 shubhamchavan148 - shubhamchava148@gmail.com
-1.Selected and plan database design for our problem statement with team members.
-2.Installed PostgeSQL on my system.
-3.Finalized the database schema and structure with team members.
-4.Perform querries on our database with PostgreSQL platform.
+1. Selected and plan database design for our problem statement with team members.
+2. Installed PostgeSQL on my system.
+3. Finalized the database schema and structure with team members.
+4. Perform querries on our database with PostgreSQL platform.
