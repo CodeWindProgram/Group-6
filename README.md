@@ -62,3 +62,7 @@
 
 @shruchavan - shruchavan2001@gmail.com                                                                                                     
 @nimishapatil12 - nimishapatil26@gmail.com
+1. Selected the suitable database after discussing with the group members.
+2. Installed postgreSQL on my system.
+3. Helped in designing the database.
+4. Worked on documentation of database with the help of group members.
