@@ -67,7 +67,12 @@
 3. Helped in designing the database.
 4. Worked on documentation of database with the help of group members.                                                                
 
-@shruchavan - shruchavan2001@gmail.com      
+@shruchavan - shruchavan2001@gmail.com  
+1. Selected a database after discussing with the group members.
+2. Did some research on the problem statement.
+3. Installed postgreSQL on my system.
+4. Worked on design and finalised it with the group members.
+5. Helped in the documentation work and made a document with the group members which has been uploaded here.   
 
 
 @Aniket11111 - aniketsamewar11@gmail.com
