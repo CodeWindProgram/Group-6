@@ -89,4 +89,8 @@
 - updated the database for our project with the help of our group members.
 - Finalized the database for our project with the help of our group members
 
+## @Kalpesh0511 - Kalpeshsawant05112000@gmail.com
+- Selected the most suitable database after discussing with the group members.
+- Installed Postgresql on my system.
+- Finalized the database design which is suitable for our test platform with the group members.
 
