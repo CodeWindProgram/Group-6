@@ -82,3 +82,11 @@
 4. Finalized the database for our project with the help of our group members
 
 
+
+@deeeepakkk - deepakengineer201@gmail.com
+1. Installed Postgresql on my system
+2. prepared a rough database for our project with the help of our group members
+3. updated the database for our project with the help of our group members
+4. Finalized the database for our project with the help of our group members
+
+
