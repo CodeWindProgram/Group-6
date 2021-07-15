@@ -67,4 +67,13 @@
 3. Helped in designing the database.
 4. Worked on documentation of database with the help of group members.                                                                
 
-@shruchavan - shruchavan2001@gmail.com         
+@shruchavan - shruchavan2001@gmail.com      
+
+
+@Aniket11111 - aniketsamewar11@gmail.com
+1. Installed Postgresql on my system
+2. prepared a rough database for our project with the help of our group members
+3. updated the database for our project with the help of our group members
+4. Finalized the database for our project with the help of our group members
+
+
