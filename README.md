@@ -94,3 +94,8 @@
 - Installed Postgresql on my system.
 - Finalized the database design which is suitable for our test platform with the group members.
 
+## @ManishVish5623 - Manish000765@gmail.com
+- Installed Postgresql on my system
+- Did some research on the web about our problem statement
+- Helped in designing the database schema
+- Helped in the documentation work
