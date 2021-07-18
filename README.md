@@ -54,7 +54,7 @@
 
 
 
-## @shubhamchavan148 - shubhamchava148@gmail.com
+## @shubhamchavan148 - shubhamchavan148@gmail.com
 - Selected and plan database design for our problem statement with team members.
 - Installed PostgeSQL on my system.
 - Finalized the database schema and structure with team members.
