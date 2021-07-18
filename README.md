@@ -4,7 +4,7 @@
  - Selected a suitable database for our test platform after discussing with other group members.                                                                          
  - Installed PostgreSql on my system.                                                                                                                   
  - Worked on designing the database and finalized the design of the database for our test platform. 
- - Created Database using PostgreSql and tested the same with @vj9206411 and @Sneha-Singh09                                                                             
+ - Created Database using PostgresSql and tested the same with @vj9206411 and @Sneha-Singh09                                                                             
 
 ## @sanketk7 - sanketkumthekar1536@gmail.com  
 - Selected the database after having word with group members.
@@ -14,9 +14,9 @@
 
 ## @Sneha-Singh09 - sneharksingh@gmail.com                          
 - Selected a database for our test platform after discussing with other group members 
-- Installed PostgreSQL on my system                                 
+- Installed PostgresSQL on my system                                 
 - Finalized the Design of the database for the test platform with group members. 
-- Created Database using PostgreSql and tested the same with @vj9206411 and @khanuzma
+- Created Database using PostgresSql and tested the same with @vj9206411 and @khanuzma
 
 ## @vj9206411 - jaiswalvj9206411@gmail.com
 - Installed PostgreSQL on my system.
